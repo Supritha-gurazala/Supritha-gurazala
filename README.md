@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Supritha-gurazala
+- 👋 Hi, I’m @Supritha-gurazala.
 - 👀 I’m interested in contributing to open source projects. 
-- 🌱 I’m currently learning python,c and web development 
-- 😄 Pronouns: she/her
+- 🌱 I’m currently learning python,c and frontend.
+- 😄 Pronouns: she/her.
 
 
 <!---
